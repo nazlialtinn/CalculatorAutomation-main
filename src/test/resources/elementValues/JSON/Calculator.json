@@ -1,0 +1,109 @@
+[
+  {
+    "key": "username",
+    "type": "xpath",
+    "value": "//input[@placeholder='Username']"
+  },
+  {
+    "key": "password",
+    "type": "xpath",
+    "value": "//input[@placeholder='Password']"
+  },
+  {
+    "key": "login button",
+    "type": "xpath",
+    "value": "//div[text()='Login']"
+  },
+  {
+    "key": "open calculator button",
+    "type": "xpath",
+    "value": "//div[text()='Open Calculator']"
+  },
+  {
+    "key": "1",
+    "type": "xpath",
+    "value": "//div[text()='1']"
+  },
+  {
+    "key": "2",
+    "type": "xpath",
+    "value": "//div[text()='2']"
+  },
+  {
+    "key": "0",
+    "type": "xpath",
+    "value": "//div[text()='0']"
+  },
+  {
+    "key": "5",
+    "type": "xpath",
+    "value": "//div[text()='5']"
+  },
+  {
+    "key": "virgül",
+    "type": "xpath",
+    "value": "//div[text()=',']"
+  },
+  {
+    "key": "x",
+    "type": "xpath",
+    "value": "//div[text()='*']"
+  },
+  {
+    "key": "-",
+    "type": "xpath",
+    "value": "//div[text()='-']"
+  },
+  {
+    "key": "8",
+    "type": "xpath",
+    "value": "//div[text()='8']"
+  },
+  {
+    "key": "=",
+    "type": "xpath",
+    "value": "//div[text()='=']"
+  },
+  {
+    "key": "105",
+    "type": "xpath",
+    "value": "//span[contains(.,'105')]"
+  },
+  {
+    "key": "-200",
+    "type": "xpath",
+    "value": "//span[contains(.,'-200')]"
+  },
+
+  {
+    "key": "507,5",
+    "type": "xpath",
+    "value": "//span[contains(.,'507,5')]"
+  },
+  {
+    "key": "request timeout",
+    "type": "xpath",
+    "value": "//div[text()='Request Timeout']"
+  },
+  {
+    "key": "1000",
+    "type": "xpath",
+    "value": "//span[contains(.,'1000')]"
+  },
+  {
+    "key": "AC",
+    "type": "xpath",
+    "value": "//div[text()='AC']"
+  },
+  {
+    "key": "200",
+    "type": "xpath",
+    "value": "//span[contains(.,'200')]"
+  },
+  {
+    "key": "deger 0",
+    "type": "xpath",
+    "value": "//span[contains(.,'0')]"
+  }
+
+]

@@ -1,0 +1,121 @@
+
+
+# <adress> sayfası açılır
+* <adress> adresine git
+* Şuanki URL <adress> değerini içeriyor mu kontrol et
+
+# <key> butonuna tıklanır
+* <key> elementine tıkla
+
+# Hesaplama kontrol edilir
+* "Hesaplama kontrol Tiki" elementini kontrol et
+* "4" saniye bekle
+
+# Mevduat Gun alanı temizlenir
+ * "Mevduat Gun Alani" elementinin text alanını temizle
+
+# Hesaplanacak degerler girilir ve hesaplanir
+  * "1" butonuna tıklanır
+  * "0" butonuna tıklanır
+  * "0" butonuna tıklanır
+  * "x" butonuna tıklanır
+  * "1" butonuna tıklanır
+  * "virgül" butonuna tıklanır
+  * "0" butonuna tıklanır
+  * "5" butonuna tıklanır
+  * "=" butonuna tıklanır
+
+  # Hesaplanacak degerler girilir ve hesaplanir 1000-800
+    * "1" butonuna tıklanır
+    * "0" butonuna tıklanır
+    * "0" butonuna tıklanır
+    * "0" butonuna tıklanır
+    * "-" butonuna tıklanır
+    * "8" butonuna tıklanır
+    * "0" butonuna tıklanır
+    * "0" butonuna tıklanır
+    * "=" butonuna tıklanır
+
+    # Hesaplanacak degerler girilir ve hesaplanir 1000-1000
+        * "1" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "-" butonuna tıklanır
+        * "1" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "=" butonuna tıklanır
+
+# Hesaplanacak degerler girilir ve hesaplanir 1000-1200
+        * "1" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "-" butonuna tıklanır
+        * "1" butonuna tıklanır
+        * "2" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "=" butonuna tıklanır
+
+# Hesaplanacak degerler girilir ve hesaplanir 2000-1000
+        * "2" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "-" butonuna tıklanır
+        * "1" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "=" butonuna tıklanır
+
+# Hesaplanacak degerler girilir ve hesaplanir 1500-500
+        * "1" butonuna tıklanır
+        * "5" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "-" butonuna tıklanır
+        * "5" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "=" butonuna tıklanır
+
+# 6 ay vadeli %3 faiz 500 TL
+        * "5" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "x" butonuna tıklanır
+        * "1" butonuna tıklanır
+        * "virgül" butonuna tıklanır
+        * "0" butonuna tıklanır
+        * "1" butonuna tıklanır
+        * "5" butonuna tıklanır
+        * "=" butonuna tıklanır
+
+# 105 kontrol edilir
+* "105" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı"
+
+# degerler temizlenir
+* "AC" butonuna tıklanır
+
+# deger 200
+* "200" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı" senaryoya devam et
+
+# deger 0
+* "deger 0" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı" senaryoya devam et
+
+# deger -200
+* "-200" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı" senaryoya devam et
+
+# deger 1000
+* "1000" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı" senaryoya devam et
+
+# deger 507,5
+* "507,5" elementi var mı kontrol et yoksa hata mesajı ver "hesaplama hatalı" senaryoya devam et
+
+# request timeout gelmediyse devam et
+* Element yok mu kontrol et "request timeout"
+
